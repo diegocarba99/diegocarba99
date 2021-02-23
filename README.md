@@ -2,7 +2,7 @@
   <img height="300" src="dark_shark_logo.svg">
 </p>
 
-[Hi there!](/hi_there.gif)
+![Hi there!](/hi_there.gif)
 
 ### Diego Carballeda
 
