@@ -1,11 +1,6 @@
 <p align="center">
-  <img height="300" src="dark_shark_logo.svg">
+  <img src="hi_there.gif">
 </p>
-
-![Hi there!](/hi_there.gif)
-
-### Diego Carballeda
-
 
 I'm a hacker in process and GNU/Linux enthusiast. 
 I'm still a student and finishing my college degree. 
