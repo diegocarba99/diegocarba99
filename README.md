@@ -2,6 +2,8 @@
   <img height="300" src="dark_shark_logo.svg">
 </p>
 
+[Hi there!](/hi_there.gif)
+
 ### Diego Carballeda
 
 
@@ -15,4 +17,4 @@ I sometimes wrtie about various topics on my blog [Dark Shark](https://diegocarb
 - Email: [diegocarballedamartinez@gmail.com](mailto:diegocarballedamartinez@gmail.com)
 
 
-![Diegos's GitHub stats](https://github-readme-stats.vercel.app/api?diegocarba99=anuraghazra&show_icons=true)
+![Diegos's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocarba99&show_icons=true)
