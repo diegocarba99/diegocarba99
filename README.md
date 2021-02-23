@@ -13,3 +13,6 @@ I sometimes wrtie about various topics on my blog [Dark Shark](https://diegocarb
 ### 📫 How to reach me:
 
 - Email: [diegocarballedamartinez@gmail.com](mailto:diegocarballedamartinez@gmail.com)
+
+
+![Diegos's GitHub stats](https://github-readme-stats.vercel.app/api?diegocarba99=anuraghazra&show_icons=true)
