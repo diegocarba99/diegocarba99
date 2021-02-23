@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="80" src="/assets/dark_shark_logo.svg">
+  <img height="80" src="dark_shark_logo.svg">
 </p>
 
 ### Diego Carballeda
