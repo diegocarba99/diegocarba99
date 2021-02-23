@@ -16,7 +16,7 @@ I sometimes wrtie about various topics on my blog [Dark Shark](https://diegocarb
 ### 📫 How to reach me:
 
 - :mailbox: mail: [diegocarballedamartinez@gmail.com](mailto:diegocarballedamartinez@gmail.com)
-- :black_nib: twitter: [@diegocarba99](https://www.twiter.com/diegocarba99/)
+- :bird: twitter: [@diegocarba99](https://www.twiter.com/diegocarba99/)
 
 ### Github stats overview
 
