@@ -1,18 +1,20 @@
-<p align="center">
-  <img src="hi_there.gif">
-</p>
+# Hi 👋, I'm diegocarba99</h1>
+### Security Engineer @ [Skyscanner](skyscanner.net)</h3>
 
-I'm a hacker in process and GNU/Linux enthusiast. 
-Graduated in Computer Science by the *Euskal Herriko Unibertsitatea (EHU)*. 
-I also love physics and maths, and I want to learn more about how the universe works.
-I sometimes wrtie about various topics on my blog [Dark Shark](https://diegocarba99.github.io/)
+📝 I regularly write articles on [diej.org](diej.org)
+
+📫 How to reach me **diegocarballedamartinez@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
-### 📫 How to reach me:
+<p>&nbsp;<img align="center" 
+src="https://github-readme-stats.vercel.app/api?username=diegocarba99&show_icons=true&locale=en" 
+alt="diegocarba99" /></p>
 
-- :e-mail: mail: [diegocarballedamartinez@gmail.com](mailto:diegocarballedamartinez@gmail.com)
-- :bird: twitter: [@diegocarba99](https://www.twitter.com/diegocarba99/)
+<p><img align="center" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=diegocarba99&" 
+alt="diegocarba99" /></p>
 
-### Github stats overview
-
-![Diegos's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocarba99&show_icons=true)
