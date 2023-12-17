@@ -5,7 +5,6 @@
 
 📫 How to reach me **diegocarballedamartinez@gmail.com**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
